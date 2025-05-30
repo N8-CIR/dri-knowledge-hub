@@ -22,9 +22,14 @@ Individual folders may have additional instructions or guidelines for content.
 
 ### Starting your contribution
 
+If you are new to git and Github we recommend the following resources:
+
+- Read the [GitHub Guides](https://guides.github.com/).
+- Checkout the [Turing way git chapters](https://book.the-turing-way.org/reproducible-research/vcs/vcs-git)
+
 1. Create a github account if you don't have one.
 [Github create an account docs](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
-1. Familiarise yourself with the
+2. Familiarise yourself with the
 [GitHub Flow docs](https://docs.github.com/en/get-started/using-github/github-flow)
 process.
 
